@@ -1,7 +1,7 @@
 {
 "version": 3,
-"mappings": "AAAA;;EAEE",
-"sources": ["parsons-css.scss"],
+"mappings": "AAAA;;EAEE;ACFF,mBAAmB",
+"sources": ["parsons-css.scss","supports/_parsons-css.scss"],
 "names": [],
 "file": "parsons-css.css"
 }
