@@ -1,6 +1,5 @@
-.idea/
+.idea
 .DS_Store
 
-parsons-css.css
-parsons-css.css.map
-parsons-css.scss
+assets/supports/_parsons-css.scss
+assets/parsons-css.scss
